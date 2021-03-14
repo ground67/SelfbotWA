@@ -1,0 +1,14 @@
+$termux-setup-storage
+$apt-get update && apt-get upgrade
+$pkg install update && pkg install upgrade
+$pkg install.ffmpeg && pkg install.bash && pkg install.node && pkg install node.js
+$git clone https://github.com/ItsmeikyXSec4O4/SelfBotOdc
+$cd 
+$ls
+$cd SelfBotOdc
+$bash install.sh
+$node index.js
+
+Tinggal Scan Dah :)
+
+Powered By : Only Dev City.
